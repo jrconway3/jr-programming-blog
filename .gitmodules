@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/jr-programming-blog-theme"]
+	path = wp-content/themes/jr-programming-blog-theme
+	url = https://github.com/jrconway3/jr-programming-blog-theme.git
